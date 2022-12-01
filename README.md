@@ -1,11 +1,13 @@
 
-# Codeforces-Stats-Analyzer
-User can input any Username and can see particular user rating as well as other informations in the form of tables and graph.(Jquery,JS Charts,Codeforces API)
+# Codeforces-Stats
+User can input any Username and can see particular user rating as well as other informations in the form of tables and graph.
+
+(Jquery, JS Charts, Codeforces API)
 
 ---
 
-### Visit the page and know your codefrces informations: 
-####  https://codeforcesvisualizer.vercel.app
+### Visit the page and know your codeforces informations: 
+####  
 ---
 
 
